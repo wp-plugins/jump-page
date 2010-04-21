@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gb-jump-page\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-21 15:41+0100\n"
+"PO-Revision-Date: 2010-04-21 15:44+0100\n"
+"Last-Translator: Stefan Natter <info@gangxtaboii.com>\n"
+"Language-Team: gangxtaboii\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: GERMAN\n"
+"X-Poedit-Country: AUSTRIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../gb_jump-page.php:63
+msgid "Jump-Page"
+msgstr "Weiterleitungsseite (Jump-Page)"
+
+#: ../gb_jump-page.php:102
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../gb_jump-page.php:136
+msgid "Sorry, Jump-Page works only under WordPress 2.5 or higher"
+msgstr "Tut uns Leid, aber Jump-Page funktioniert erst ab WordPress 2.5 oder höher."
+
+#: ../html/gb_newsbox.php:22
+#: ../html/setting-page.php:56
+msgid "Support"
+msgstr "Support"
+
+#: ../html/gb_newsbox.php:25
+msgid "was created by"
+msgstr "erstellt von"
+
+#: ../html/gb_newsbox.php:26
+msgid "The development of this plugin took a lot of time and effort, so please don&rsquo;t forget to donate if you found this plugin useful."
+msgstr "Die Entwicklung dieses Projekts hat sehr viel Zeit in Anspruch genommen. Weswegen das gesamte Team über jede Unterstützung  sehr erfreut wäre."
+
+#: ../html/gb_newsbox.php:28
+msgid "There are also other ways of supporting this plugin to ensure it is maintained and well supported in the future!"
+msgstr "Es gibt verschieden Arten wie ihr das Projekt unterstützen könnt damit es auch in Zukunft ohne Probleme läuft und gut supported bleibt."
+
+#: ../html/gb_newsbox.php:29
+msgid "Rating the plugin on wordpress.org (if you like it), linking/spreading the word, and submitting code contributions will all help."
+msgstr "Bewertet unser Projekt auf wordpress.org (wenn ihr wollt), schickt es an alle die ihr kennt oder postet es auf eurer Webseite und schickt uns fehlerhaften Code wenn ihr welchen findet. Danke."
+
+#: ../html/gb_newsbox.php:49
+msgid "en"
+msgstr "de"
+
+#: ../html/setting-page.php:56
+#: ../html/setting-page.php:146
+msgid "Plugin-Settings"
+msgstr "Einstellungen"
+
+#: ../html/setting-page.php:56
+#: ../html/setting-page.php:198
+msgid "Plugin-FAQ"
+msgstr "Plugin-FAQ"
+
+#: ../html/setting-page.php:64
+msgid "Path to your Jump-Page"
+msgstr "Url/Pfad zur Weiterleitungsseite (Jump-Page)"
+
+#: ../html/setting-page.php:70
+#: ../html/setting-page.php:91
+#: ../html/setting-page.php:124
+#: ../html/setting-page.php:134
+#: ../tinymce/window.php:89
+msgid "Example"
+msgstr "Beispiel"
+
+#: ../html/setting-page.php:70
+msgid "http://www.yourdomain.com/jump-page/"
+msgstr "http://www.beispiel.com/jump-page.php"
+
+#: ../html/setting-page.php:70
+msgid "or"
+msgstr "oder"
+
+#: ../html/setting-page.php:70
+#: ../html/setting-page.php:71
+msgid "http://www.yourblog.com/?page_id=67"
+msgstr "http://www.beispiel.com/?page_id=67"
+
+#: ../html/setting-page.php:71
+msgid "Recommendation"
+msgstr "Empfehlung"
+
+#: ../html/setting-page.php:71
+msgid "We recommend to use it like this"
+msgstr "Wir empfehlen Ihnen die Verwendung dieser Variante"
+
+#: ../html/setting-page.php:75
+msgid "Text of your Jump-Page"
+msgstr "Text auf der Weiterleitungsseite"
+
+#: ../html/setting-page.php:81
+msgid "Text for your Jump-Page. It will appear until the visitor is redirected to the requested url."
+msgstr "Dieser Text wird auf der Weiterleitungsseite zu sehen sein."
+
+#: ../html/setting-page.php:85
+msgid "Time until the Plugin redirects your Visitors (sec)"
+msgstr "Zeit bis das Plugin die Besucher weiterleitet (sek)"
+
+#: ../html/setting-page.php:91
+msgid "they will be redirected within"
+msgstr "die Besucher werden dann nach"
+
+#: ../html/setting-page.php:91
+msgid "seconds"
+msgstr "Sekunden weitergeleitet"
+
+#: ../html/setting-page.php:95
+msgid "only EXTERNAL Links"
+msgstr "nur externe Links"
+
+#: ../html/setting-page.php:97
+msgid "Available at"
+msgstr "Verfügbar ab"
+
+#: ../html/setting-page.php:103
+msgid "ENABLE or DISABLE this if you want to use this plugin only for external links or not."
+msgstr "Aktivieren oder Deaktivieren Sie diese Option wenn das Plugin nur externe Links oder alle Links behandeln soll."
+
+#: ../html/setting-page.php:107
+msgid "Enable Ads/Information"
+msgstr "Aktiviert die Werbung"
+
+#: ../html/setting-page.php:114
+msgid "ENABLE or DISABLE this if you want to show Ads or other Information on your jump-page"
+msgstr "Aktivieren oder Deaktivieren Sie diese Option wenn Sie Werbung/News/etc. auf der Weiterleitungsseite anzeigen möchten oder nicht."
+
+#: ../html/setting-page.php:118
+msgid "Top-Information"
+msgstr "Top-Information"
+
+#: ../html/setting-page.php:124
+msgid "Information at the top of the page"
+msgstr "Informationen am Anfang der Seite"
+
+#: ../html/setting-page.php:124
+#: ../html/setting-page.php:134
+msgid "Google-Ads"
+msgstr "Google-Werbung"
+
+#: ../html/setting-page.php:128
+msgid "Bottom-Information"
+msgstr "Fuß-Information"
+
+#: ../html/setting-page.php:134
+msgid "Information at the bottom of the page"
+msgstr "Informationen am Ende der Seite"
+
+#: ../html/setting-page.php:146
+msgid "working since version"
+msgstr "verfügbar seit der Version"
+
+#: ../html/setting-page.php:160
+msgid "Enable/Disable this if you want to create and design your own external-jump-page."
+msgstr "Aktivieren/Deaktivieren Sie diese Option wenn Sie eine eigene Weiterleitungsseite verwenden möchten"
+
+#: ../html/setting-page.php:164
+msgid "external Jump-Page-Url"
+msgstr "externe Weiterleitungsseite (URL)"
+
+#: ../html/setting-page.php:170
+msgid "The URl to your Jump-Page."
+msgstr "Url/Pfad zur Weiterleitungsseite (Jump-Page)"
+
+#: ../html/setting-page.php:174
+msgid "URL-Variable (PHP)"
+msgstr "URL-Variable (PHP)"
+
+#: ../html/setting-page.php:180
+msgid "You must put the variable in this box for your external page. this variable will send the url for the requested page"
+msgstr "Fügen Sie hier die Variable ein die an Ihre Externe Weiterleitungsseite gesendet wird."
+
+#: ../html/setting-page.php:192
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: ../html/setting-page.php:204
+msgid "Install the Plugin"
+msgstr "Installieren Sie das Plugin"
+
+#: ../html/setting-page.php:206
+msgid "Go to the Settings-Page and complete all the required information"
+msgstr "Füge alle benötigten Informationen auf der Settings-Page des Plugins ein"
+
+#: ../html/setting-page.php:208
+msgid "Now you have to create a Jump-Page for the plugin"
+msgstr "Jetzt musst du eine Jump-Page erstellen"
+
+#: ../html/setting-page.php:210
+msgid "Create a page and add the following shortcode"
+msgstr "Erstelle eine neue Seite  und füge den folgenden Shortcode ein"
+
+#: ../html/setting-page.php:213
+msgid "after that you can use the plugin like this (in posts/pages, etc.)"
+msgstr "Danach kannst du das Plugin wie folgt verwenden (in Artikeln oder Seiten)"
+
+#: ../html/setting-page.php:215
+msgid "Create a new Page/Post and click on the new button in the wysiwyg-editor and then add the required information."
+msgstr "Erstelle einen neuen Artikel oder neue Page und klicke dann auf den neuen Button im wysiwyg-Editor und fügen Sie dann die benötigten Informationen ein."
+
+#: ../html/setting-page.php:216
+msgid "it will copy sth. like this into your textbox"
+msgstr "Folgendes wird dann in die Eingabebox eingefügt"
+
+#: ../html/setting-page.php:216
+#: ../html/setting-page.php:217
+msgid "http://www.example.com"
+msgstr "http://www.beispiel.de"
+
+#: ../html/setting-page.php:216
+#: ../html/setting-page.php:217
+msgid "Example-Link"
+msgstr "Beispiel-Link"
+
+#: ../html/setting-page.php:217
+msgid "this will show up like this"
+msgstr "wird angezeigt als"
+
+#: ../html/setting-page.php:220
+msgid "Design"
+msgstr "Design"
+
+#: ../html/setting-page.php:222
+msgid "You can design your jump-page on your own by adding the following css-class in your css-file"
+msgstr "Du kannst die Weiterleitungsseite selber gestalten in dem du die folgende CSS-Klasse in deiner css-Datei addest"
+
+#: ../html/setting-page.php:225
+msgid "Notice"
+msgstr "Wichtig:"
+
+#: ../html/setting-page.php:227
+msgid "in order to hide your jump-page properly install the following plugin"
+msgstr "Damit die Jump-Page auch in der Navigation nicht mehr sichtbar ist solltest du folgendes Plugin installieren"
+
+#: ../html/setting-page.php:233
+msgid "Intern-Link-Handling and the ability to use and create your own Jump-Page will be available at version"
+msgstr "Die Behandlung von Internen-Links sowie die Möglichkeit eigene Weiterleitungsseiten (Jum-Pages) zu verwenden folgt ab Version"
+
+#: ../tinymce/window.php:17
+msgid "You are not allowed to be here"
+msgstr "Sie haben keine Erlaubnis hier zu sein."
+
+#: ../tinymce/window.php:71
+msgid "URL-Settings"
+msgstr "URL-Einstellungen"
+
+#: ../tinymce/window.php:81
+msgid "Enter the url here:"
+msgstr "Geben Sie die URL hier ein:"
+
+#: ../tinymce/window.php:85
+msgid "Enter the title here:"
+msgstr "Geben Sie den Titel hier ein:"
+
+#: ../tinymce/window.php:89
+msgid "url = http://www.example.com"
+msgstr "Url = http://www.beispiel.de"
+
+#: ../tinymce/window.php:89
+msgid "title = Example-Link"
+msgstr "Titel = Beispiel-Link"
+
+#: ../tinymce/window.php:99
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../tinymce/window.php:103
+msgid "Insert"
+msgstr "Einfügen"
+
+#~ msgid ""
+#~ "The development of this project took a lot of time and effort, so please "
+#~ "don&rsquo;t forget to donate if you found this project useful."
+#~ msgstr ""
+#~ "Die Entwicklung dieses Projekts hat sehr viel Zeit in Anspruch genommen. "
+#~ "Weswegen das gesamte Team über jede Unterstützung  sehr erfreut wäre."
+
+#~ msgid ""
+#~ "There are also other ways of supporting this project to ensure it is "
+#~ "maintained and well supported in the future!"
+#~ msgstr ""
+#~ "Es gibt verschieden Arten wie ihr das Projekt unterstützen könnt damit es "
+#~ "auch in Zukunft ohne Probleme läuft und gut supported bleibt."
+
+#~ msgid ""
+#~ "Rating the project on wordpress.org (if you like it), linking/spreading "
+#~ "the word, and submitting code contributions will all help."
+#~ msgstr ""
+#~ "Bewertet unser Projekt auf wordpress.org (wenn ihr wollt), schickt es an "
+#~ "alle die ihr kennt oder postet es auf eurer Webseite und schickt uns "
+#~ "fehlerhaften Code wenn ihr welchen findet. Danke."
+
+#~ msgid "Top-AD"
+#~ msgstr "Werbung am Anfang"
+
+#~ msgid "Bottom-AD"
+#~ msgstr "Werbung am Ende"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Example: URL=http://www.example.com - Titel: Example-Link"
+#~ msgstr "Beispiel: URL=http://www.beispiel.com - Titel: Beispiel-Link"
+
+#~ msgid ""
+#~ "The URl to your Jump-Page. Notice: If this Textbox isn&prime;t emtpy the "
+#~ "Plugin will always act like you use a external Jump-Page."
+#~ msgstr "Die URL Ihrer eigenen Weiterleitungsseite:"
+
+#, fuzzy
+#~ msgid "EXTERNAL Jump-Page"
+#~ msgstr "Jump-Page"
+
+#~ msgid "Du hast keine Erlaubnis hier zu sein!"
+#~ msgstr "You are not allowed to be here"
+
+#~ msgid "Speichern"
+#~ msgstr "Save"
+
+#~ msgid "URL-Einstellungen"
+#~ msgstr "URL-Settings"
+
+#~ msgid "URL hier eingeben:"
+#~ msgstr "Enter the url here:"
+
+#~ msgid "Titel hier eingeben:"
+#~ msgstr "Enter the title here:"
